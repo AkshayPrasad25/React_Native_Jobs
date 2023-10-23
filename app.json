@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "react_rative_jobs",
-    "slug": "react_rative_jobs"
+    "slug": "react_rative_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f5128da9-07fd-4edd-91a3-ac7d1a321f2a"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f5128da9-07fd-4edd-91a3-ac7d1a321f2a"
+    },
+    "android": {},
+    "ios": {}
   }
 }
