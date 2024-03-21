@@ -2,8 +2,8 @@
 This project is a React Native application that provides access to nearby jobs, popular jobs, and includes a search function.
 
 <p align="left">
-  <img src="https://github.com/AkshayPrasad25/React_Native_Jobs/assets/122083846/1db4884d-6e62-4f5c-a070-8ebcffd9ebcf" width="250" />
-  <img src="https://github.com/AkshayPrasad25/React_Native_Jobs/assets/122083846/a070ef1e-32f5-463c-bde1-e47be9272972" width="250" />
+  <img src="https://github.com/AkshayPrasad25/React_Native_Jobs/assets/122083846/1db4884d-6e62-4f5c-a070-8ebcffd9ebcf" width="250" /> &nbsp
+  <img src="https://github.com/AkshayPrasad25/React_Native_Jobs/assets/122083846/a070ef1e-32f5-463c-bde1-e47be9272972" width="250" /> &nbsp
   <img src="https://github.com/AkshayPrasad25/React_Native_Jobs/assets/122083846/37cc54e0-c59f-4335-95e3-d9b3826aec1e" width="250" />
 </p>
 
