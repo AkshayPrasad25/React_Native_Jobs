@@ -31,7 +31,7 @@ Expo-router, RapidAPI-JSearch
 ``` bash
  git clone https://github.com/AkshayPrasad25/React_Native_Jobs.git
 ```
-### 2. Run this command in both client & server directory
+### 2. Run this command to install packages
 ``` bash
  npm install
 ```
